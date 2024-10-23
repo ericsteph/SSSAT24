@@ -2,4 +2,4 @@
 
 SSSAT 2024 | Bellinzona
 
-https://ericsteph.github.io/sssat24
+https://ericsteph.github.io/SSSAT24
